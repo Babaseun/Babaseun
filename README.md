@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Adeyemi</h1>
+<h1 align="center">Hi 👋, I'm Adeyemi</h1>
 <h3 align="center">A passionate software engineer from Nigeria</h3>
 
 🌱 I’m currently learning java, terraform, and design patterns in general
