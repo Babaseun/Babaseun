@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adeyemi onibokun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeyemi onibokun" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/adeyemi-onibokun-3759b4154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeyemi onibokun" height="30" width="40" /></a>
 </p>
 
 ### :hammer_and_wrench: Languages and Tools :
